@@ -16,10 +16,11 @@
 
 - **[Laravel Secretsync](https://github.com/umar-jimoh/laravel-secretsync)**  
   Seamlessly sync secrets from secret managers into your Laravel apps.
-<!--
-- **[OtherPackage](https://github.com/your-username/other-package)**  
-  Describe the goal of another key package or contribution here.
+  
+- **[Deploy laravel with Dockerfile](https://github.com/umar-jimoh/laravel-dockerfile-nginx)**  
+  Docker setup for running Laravel with NGINX and Supervisor.
 
+<!--
 - Regular contributor to open-source projects with real-world usage.
 -->
 ---
