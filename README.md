@@ -14,7 +14,7 @@
 
 ### 🚀 Projects & Contributions
 
-- **[Laravel Secretsync](https://github.com/umar-jimoh/laravel-secretsync)**  
+- **[Laravel SecretSync](https://github.com/umar-jimoh/laravel-secretsync)**  
   Seamlessly sync secrets from secret managers into your Laravel apps.
   
 - **[Deploy laravel with Dockerfile](https://github.com/umar-jimoh/laravel-dockerfile-nginx)**  
