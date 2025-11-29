@@ -17,7 +17,7 @@
 - **[Laravel SecretSync](https://github.com/umar-jimoh/laravel-secretsync)**  
   Seamlessly sync secrets from secret managers into your Laravel apps.
   
-- **[Deploy laravel with Dockerfile](https://github.com/umar-jimoh/laravel-dockerfile-nginx)**  
+- **[Deploy laravel with Dockerfile](https://github.com/umar-jimoh/laravel-dockerfile-nginx-template)**  
   Docker setup for running Laravel with NGINX and Supervisor.
 
 <!--
